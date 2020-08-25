@@ -9,7 +9,7 @@
     <packaging>war</packaging>
 
     <name>phone management</name>
-    <description>service which manages supplier</description>
+    <description>service which manages phone</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
